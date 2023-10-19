@@ -24,51 +24,66 @@ To create a student database and execute DDL queries using SQL.
 ### 1) Create a database studentdb
 
 ### SQL QUERY:
-
+```sql
+Create a database studentdb;
+```
 ### OUTPUT:
+![image](https://github.com/NITHISH74/DBMS/assets/94164665/3c8a12ec-b1c0-45ee-88d4-ccd5c73bbc84)
+
 
 ### 2) Create a table student  and insert any two rows with the following fieds RegisterNumber,Name,Age,Address,Phone number
 
 ### SQL QUERY: 
-
+```sql
+ create table student(rollno int,name char(20),age int,address varchar(20),phoneno int);
+```
 
 ### OUTPUT:
+![image](https://github.com/NITHISH74/DBMS/assets/94164665/fb653ac4-abdb-4f23-9760-ecfcc3ad9670)
 
 ### 3) Alter the above student table by adding another attribute department
 
 ### SQL QUERY: 
-
+```sql
+alter table student add department char(30);
+```
 ### OUTPUT:
+![image](https://github.com/NITHISH74/DBMS/assets/94164665/be917502-6e7a-4cff-a0f6-8b02db1bdcf6)
 
-### 4) Rename the student table to mystudent
+### 4) Drop the mystudent table
 
 ### SQL QUERY: 
 
-
+```sql
+drop table student;
+```
 
 ### OUTPUT:
+![image](https://github.com/NITHISH74/DBMS/assets/94164665/068bedc3-28c7-4a08-8be3-0b36bca488eb)
 
 ### 5) Delete the mystudent rows using truncate keyword
 
 ### SQL QUERY: 
-
+```sql
+truncate table student;
+```
 
 ### OUTPUT:
-### 4) Drop the mystudent table
+![image](https://github.com/NITHISH74/DBMS/assets/94164665/9035ad47-2e91-4788-b563-b4d29d7d78e4)
+
+### 6) Rename the student table to mystudent
  
 ### SQL QUERY: 
-
+```sql
+alter table student rename to mystudent;
+```
 
 ### OUTPUT:
 
-
-
-
-
-
+![image](https://github.com/NITHISH74/DBMS/assets/94164665/ad411f19-e8e6-4b21-a554-14bcc4210a03)
 
 
 ## Result:
-         Thus the basic DDL commands in SQL are executed. 
+Thus the basic DDL commands in SQL are executed. 
 
 
