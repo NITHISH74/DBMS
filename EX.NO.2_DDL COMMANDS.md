@@ -24,6 +24,7 @@ To create a student database and execute DDL queries using SQL.
 ### 1) Create a database studentdb
 
 ### SQL QUERY:
+
 ```sql
 Create a database studentdb;
 ```
