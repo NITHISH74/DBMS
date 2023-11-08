@@ -11,6 +11,7 @@ A SYNONYM provides another name for database object, referred to as original obj
 
 ## ASSERTIONS:
 <div align="justify">
+ 
 * An assertion is a piece of SQL which makes sure a condition is satisfied, else or it stops the action being taken on a database.
 
  
