@@ -3,17 +3,17 @@
 ## AIM: 
 To create database connectivity and display the employee table 
 ## Algorithms:
-### Steps 01:
+### Step 01:
 Install mysql,visual studio,jdk, extensions of java pack.
-### Steps 02:
+### Step 02:
 Create a employee table and insert the data into employee table  
-### Steps 03:
+### Step 03:
 Create a new java project in visual studio.
-### Steps 04:
+### Step 04:
 write a java progarm to perform the following 1.create a connection 2. fetch data and store it in result set 3. Display table rows. 4. Close the connection
-### Steps 05:
+### Step 05:
 Deploy the jar file in lib folder 
-### Steps 06:
+### Step 06:
 Run the program
 
 ## Program:
