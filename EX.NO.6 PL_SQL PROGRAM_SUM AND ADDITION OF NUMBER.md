@@ -14,7 +14,7 @@ Display the result
 ### Step 05:
 End the begin section.
 
-### Program:
+## Program:
 ```sql
 declare
 a number :=10;
@@ -26,10 +26,10 @@ end;
 ```
 
 
-### Output:
+## Output:
 ![image](https://github.com/Lakshmipriya2005/DBMS/assets/115525361/ca244df1-b136-4b51-abb1-e99402105b6b)
 
 
 
-### Result:
+## Result:
 Thust the program was performed sucessfully.
