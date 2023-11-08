@@ -23,8 +23,6 @@ CREATE TABLE employd (
   dept VARCHAR(10),
   salary NUMBER
 );
-```
-```
 
 INSERT INTO employd VALUES (1, 'Gojo', 'HR', 100000);
 INSERT INTO employd VALUES (2, 'Yuji', 'Sales', 80000);
