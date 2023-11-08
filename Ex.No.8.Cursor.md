@@ -3,15 +3,15 @@
 ## AIM: 
 To create PL/SQL program to display the customer table 
 ## Algorithms:
-### Steps 01:
+### Step 01:
 Declare the variable  in Declare section.
-### Steps 02:
+### Step 02:
 Fetch the variable with datatype similar to data type in cursor 
-### Steps 03:
+### Step 03:
 Create a cursor to select all rows from customers table.
-### Steps 04:
+### Step 04:
 Display the result 
-### Steps 05:
+### Step 05:
 End the begin section.
 
 ## Program:
