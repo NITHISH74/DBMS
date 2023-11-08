@@ -3,17 +3,17 @@
 ## AIM: 
 To create PL/SQL program to display new and old salary of customer when before/ after updation takes place. 
 ## Algorithms:
-### Steps 01:
+### Step 01:
 Create a trigger for each row when updation occurs.
-### Steps 02:
+### Step 02:
 Declare the variable in Declare section.
-### Steps 03:
+### Step 03:
 Start the begin section.
-### Steps 04:
+### Step 04:
 Calculate the salary changes.
-### Steps 05:
+### Step 05:
 Display the result 
-### Steps 06:
+### Step 06:
 End the begin section.
 
 ### Program:
